@@ -10,7 +10,7 @@
   <em>Creating software through pure imagination</em>
 </p>
 
-<hr style="border: 2px solid #0A1A2F;">
+<hr style="border: 50px solid #0A1A2F;">
 
 ## 🚀 About Me
 
