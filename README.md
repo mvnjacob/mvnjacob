@@ -1,7 +1,7 @@
 
 <!-- ====== HEADER / LOGO ====== -->
 <p align="center">
-  <img src="branding/logo/Logo.png" alt="Personal Logo" width="120"/>
+  <img src="branding/logo/Logo.png" alt="Personal Logo" width="300"/>
 </p>
 
 <h1 align="center">Hi, I'm Marc Vincent Jacob</h1>
