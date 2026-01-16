@@ -10,7 +10,7 @@
   <em>Creating software through pure imagination</em>
 </p>
 
----
+<hr style="border: 2px solid #0A1A2F;">
 
 ## 🚀 About Me
 
@@ -18,7 +18,7 @@ I’m a Computer Science student passionate about transforming ideas into meanin
 software. I enjoy problem-solving, designing clean systems, and exploring how
 imagination and logic come together through code.
 
----
+<hr style="border: 2px solid #0A1A2F;">
 
 ## 🛠 Skills
 
