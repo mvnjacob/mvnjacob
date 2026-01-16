@@ -1,80 +1,71 @@
+
 <!-- ====== HEADER / LOGO ====== -->
 <p align="center">
-  <img src="logo.png" alt="Personal Logo" width="120"/>
+  <img src="Github_Logo.png" alt="Personal Logo" width="120"/>
 </p>
 
-<h1 align="center" style="color:#172243;">Hi, I'm Marc Vincent Jacob</h1>
-<h3 align="center" style="color:#23547b;">
-  Computer Science Student | Aspiring Game Developer
-</h3>
+<h1 align="center">Hi, I'm Marc Vincent Jacob</h1>
+<h3 align="center">Computer Science Student | Aspiring Game Developer</h3>
 
-<p align="center" style="color:#b8c5d6;">
+<p align="center">
   <em>Creating software through pure imagination</em>
 </p>
 
-<hr style="height:4px;border:none;background:#172243;">
+---
 
-<h2 style="color:#23547b;">About Me</h2>
+![About Me](https://img.shields.io/badge/About_Me-23547b?style=for-the-badge)
 
-<p style="color:#ffffff;">
-I'm a Computer Science student currently studying at Ateneo de Davao University.
-I am passionate about continuing learning to deepen my knowledge in the field I am in.
-I enjoy problem-solving, finding ways to make my ideas into reality, and building software with a purpose.
-</p>
+I'm a Computer Science student currently studying at **Ateneo de Davao University**.  
+I am passionate about continuous learning and deepening my knowledge in the field I am in.  
+I enjoy problem-solving, turning ideas into reality, and building software with purpose.
 
-<hr style="height:2px;border:none;background:#23547b;">
+---
 
-<h2 style="color:#23547b;">🛠 Skills</h2>
+![Skills](https://img.shields.io/badge/Skills-23547b?style=for-the-badge)
 
-<h3 style="color:#b8c5d6;">Programming Languages</h3>
+### 🧑‍💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-<!-- badges unchanged -->
+### 🌐 Web & Tools
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier&logoColor=black)
 
-<h3 style="color:#b8c5d6;">Web & Tools</h3>
+### 📚 Core Concepts
+- Data Structures & Algorithms  
+- Object-Oriented Programming  
+- Discrete Structures  
+- Information Management  
+- Event-Driven Programming  
 
-<!-- badges unchanged -->
+---
 
-<h3 style="color:#b8c5d6;">Core Concepts</h3>
+![Current Projects](https://img.shields.io/badge/Current_Projects-23547b?style=for-the-badge)
 
-<ul style="color:#edf5fc;">
-  <li>Data Structures & Algorithms</li>
-  <li>Object-Oriented Programming</li>
-  <li>Discrete Structures</li>
-  <li>Information Management</li>
-  <li>Event-Driven Programming</li>
-</ul>
+- **Personal Portfolio Website** — Showcasing my work and skills  
 
-<hr style="height:2px;border:none;background:#172243;">
+---
 
-<h2 style="color:#23547b;">📂 Current Projects</h2>
+![Brand Colors](https://img.shields.io/badge/Brand_Colors-23547b?style=for-the-badge)
 
-<ul style="color:#edf5fc;">
-  <li><strong>Personal Portfolio Website</strong> – Showcasing my work and skills</li>
-</ul>
+- Dark Navy `#172243`  
+- Steel Blue `#23547b`  
+- Muted Blue `#b8c5d6`  
+- Ice White `#edf5fc`  
+- Pure White `#ffffff`  
 
-<hr style="height:2px;border:none;background:#172243;">
+---
 
-<h2 style="color:#23547b;">🎨 Brand Colors</h2>
+![Contact Me](https://img.shields.io/badge/Contact_Me-23547b?style=for-the-badge)
 
-<ul style="color:#edf5fc;">
-  <li>Dark Navy <code>#172243</code></li>
-  <li>Steel Blue <code>#23547b</code></li>
-  <li>Muted Blue <code>#b8c5d6</code></li>
-  <li>Ice White <code>#edf5fc</code></li>
-  <li>Pure White <code>#ffffff</code></li>
-</ul>
-
-<hr style="height:2px;border:none;background:#172243;">
-
-<h2 style="color:#23547b;">📫 Contact Me</h2>
-
-<ul style="color:#edf5fc;">
-  <li>Email: <a href="mailto:marcvincentjacob@gmail.com" style="color:#00cfff;">
-    marcvincentjacob@gmail.com
-  </a></li>
-  <li>Phone: +63 976 291 3553</li>
-</ul>
-
-<hr style="height:2px;border:none;background:#172243;">
-
-
+- 📧 Email: **marcvincentjacob@gmail.com**  
+- 📱 Phone: **+63 976 291 3553**
