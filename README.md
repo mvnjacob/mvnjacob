@@ -68,4 +68,3 @@ I enjoy problem-solving, turning ideas into reality, and building software with 
 ![Contact Me](https://img.shields.io/badge/Contact_Me-23547b?style=for-the-badge)
 
 - Email: **marcvincentjacob@gmail.com**  
-- Phone: **+63 976 291 3553**
