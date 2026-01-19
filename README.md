@@ -3,14 +3,7 @@
 <p align="center">
   <img src="branding/banner/ProfileBanner.png" alt="Personal Logo" width="1280"/>
 </p>
-
-<h1 align="center">Hi, I'm Marc Vincent Jacob</h1>
-<h3 align="center">Computer Science Student | Aspiring Game Developer</h3>
-
-<p align="center">
-  <em>Creating software through pure imagination</em>
-</p>
-
+<h1 align="center">Computer Science Student | Aspiring Game Developer</h1>
 ---
 
 ![About Me](https://img.shields.io/badge/About_Me-23547b?style=for-the-badge)
