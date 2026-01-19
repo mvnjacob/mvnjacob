@@ -4,7 +4,6 @@
   <img src="branding/banner/ProfileBanner.png" alt="Personal Logo" width="1280"/>
 </p>
 <h1 align="center">Computer Science Student | Aspiring Game Developer</h1>
----
 
 ![About Me](https://img.shields.io/badge/About_Me-23547b?style=for-the-badge)
 
