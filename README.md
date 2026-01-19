@@ -4,6 +4,8 @@
   <img src="branding/banner/ProfileBanner.png" alt="Personal Logo" width="1280"/>
 </p>
 
+---
+
 ![About Me](https://img.shields.io/badge/About_Me-23547b?style=for-the-badge)
 
 I'm a Computer Science student currently studying at **Ateneo de Davao University**.  
@@ -43,16 +45,6 @@ I enjoy problem-solving, turning ideas into reality, and building software with 
 ![Current Projects](https://img.shields.io/badge/Current_Projects-23547b?style=for-the-badge)
 
 - **Personal Portfolio Website** — Showcasing my work and skills  
-
----
-
-![Brand Colors](https://img.shields.io/badge/Brand_Colors-23547b?style=for-the-badge)
-
-- Dark Navy `#172243`  
-- Steel Blue `#23547b`  
-- Muted Blue `#b8c5d6`  
-- Ice White `#edf5fc`  
-- Pure White `#ffffff`  
 
 ---
 
