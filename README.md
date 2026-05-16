@@ -1,8 +1,4 @@
 
-<!-- ====== HEADER / LOGO ====== -->
-<p align="center">
-  <img src="branding/banner/ProfileBanner.png" alt="Personal Logo" width="1280"/>
-</p>
 
 ---
 
