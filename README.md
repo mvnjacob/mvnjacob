@@ -22,4 +22,4 @@
 
 <td width="60%">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mvnjacob&theme=github-compact" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mvnjacob&theme=github_dark" />
