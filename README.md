@@ -1,8 +1,9 @@
-<table width="100%">
+<table>
 <tr>
-<td valign="top" width="50%">
 
-<pre style="background: transparent; border: none; padding: 0; margin: 0;">
+<td width="60%" align="center" valign="middle">
+
+<pre>
                                                             
                               ....                          
                        .......#%@@.....                     
@@ -42,24 +43,43 @@
 </pre>
 
 </td>
-<td valign="top" width="50%">
 
-## Marc Jacob
-<br>
-Computer Science Student <br>
-3rd Year <br>
-Ateneo de Davao University
-<br>
+<td width="40%" valign="middle">
+
+<h1>Marc Jacob</h1>
+
+<p>
+<h3>B.S. Computer Science</h3>
+  <ul>
+<li>Ateneo de Davao University</li>
+<li>3rd Year</li>
+  </ul>
+</p>
+
 <br>
 
-### Interested in:
-Software Development<br>
-Project Management
-<br>
+<h3>About Me</h3>
+
+<p>
+I'm a Computer Science student with a passion for problem solving and team management. I like playing video games.
+</p>
+
 <br>
 
-### Contact
-marcvincentjacob@gmail.com
+<h3>Currently Interested In</h3>
+
+<ul>
+  <li>Software Development</li>
+  <li>Project Management</li>
+</ul>
+
+<br>
+
+<h3>Contact</h3>
+
+<p>
+<a href="mailto:marcvincentjacob@gmail.com">marcvincentjacob@gmail.com</a>
+</p>
 
 </td>
 </tr>
