@@ -79,6 +79,13 @@ I'm a Computer Science student with a passion for problem solving and team manag
 
 <p>
 <a href="mailto:marcvincentjacob@gmail.com">marcvincentjacob@gmail.com</a>
+<a
+  href="https://www.linkedin.com/in/marcvincentjacob"
+  target="_blank"
+  rel="noopener noreferrer"
+>
+  linkedin.com/in/marcvincentjacob
+</a>
 </p>
 
 </td>
