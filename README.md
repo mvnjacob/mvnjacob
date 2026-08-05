@@ -1,4 +1,9 @@
-<pre style="background: transparent; border: none; padding: 0; margin: 0;">                                              
+<table>
+<tr>
+<td valign="top">
+
+<pre style="background: transparent; border: none; padding: 0; margin: 0;">
+                                                            
                               ....                          
                        .......#%@@.....                     
                      ..=-..........=>>.....                 
@@ -34,5 +39,30 @@
 .=*--~~--=~~==-~-~^=....@@@@@@...-~.~***~..===*..=*==.-==*-.
 .~~--*=-~~~~-===~-~^*....@@@@...~.~*====*====~..**~~~..==~-.
 .-=-.*=~~~~~-~~~~~--*=~..]@...-~~~*=~~~~====..~^==~==.~^~.~.
-............................................................
 </pre>
+
+</td>
+<td valign="top">
+
+## Marc Jacob
+<br>
+Computer Science Student <br>
+3rd Year <br>
+Ateneo de Davao University
+<br>
+<br>
+
+### Interested in:
+Software Development<br>
+Project Management
+<br>
+<br>
+
+### Contact
+marcvincentjacob@gmail.com
+
+</td>
+</tr>
+</table>
+
+<br>
