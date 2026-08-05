@@ -1,22 +1,22 @@
-YYYYYYYYYYYYYYYYJJJJJJJJJJJJJJJJJJJJJJJJ  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-YYYYYYYYYYYYYYJY5PPGGGGP5YJJJJJJJJJJJJJJ
-YYYYYY5555555PB&@@@@@&&&&#BGYJJJJJJJJJJJ  Marc Jacob
-555555PPPGGB#&@@@&&&&&&&&&&&&GYJJJJJJJJJ
-55PPPGGBB#&@@@@@@@@@&&#&&@@&&&#5JJJJJJJJ  Computer Science Student
-PPGGBB###@@@@@#BPYY5Y?77YG#@@&&#JJJJJJJJ
-GGB###&&&@@@&BY7!^:::::::^!Y&@@&YJJJJJJJ  Ateneo de Davao University
-B##&&&&&&@@@BP5J?~^:...:~~77?#@#YYYYYJJJ
-B#&&&&&&&&&&5YJJ?77~:.^!?!!~~?GYYYYJJYJJ  Interested in
-B##&&&&&&BYBY!^^~::!~:::^::.:!:~YYYYYYYY  Software Engineering
-B##&&&&&&&GBJ~:...~!^.::....:~^?YYYYYYYY  Project Management
-BB##&&&&&&#GJ7~::~!~^::::::::~?YYYYYYYYY
-GB##&&&&&&&&Y~~^:?J!:::~~^:::?YYYYYYYYYY
-BB##&&&&&&&&&P?!^^~^::::..^!5YYYYYYYYYYY
-GB##&&&&&&&@@#GG5J!~:::^!!~B&GYYYYYYYYYY
-GB##&&&&&@@@&PJYPGP5JJJ7~^Y&&&#BGP5YYYYY
-#&&&&@@@@@@@GJJ777?7!!~^!P&&&&&@&&&BP5YY
-&@@@@@&&&@@@B7!77777!~~J&&&&&&&&&&@&&&##
-&@&&@@@@@@@@@&?:^^^^^^Y&@@&&&&&&&@&&&&@&
-&&@&&@@@&&@@@@&J...:7G&&@@@&&&&&@&&@&&&&
-&&@&&&&&&&&@&@@@Y:!G&&&&&&&&@&&@&&&@@&&&
-@@@@&&&&&&&&&&&@@B&@&&&&&&&&&&&&&&&@&&&&  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+YYYYYYYYYYYYYYYYJJJJJJJJJJJJJJJJJJJJJJJJ  <br>
+YYYYYYYYYYYYYYJY5PPGGGGP5YJJJJJJJJJJJJJJ  <br>
+YYYYYY5555555PB&@@@@@&&&&#BGYJJJJJJJJJJJ  <br>
+555555PPPGGB#&@@@&&&&&&&&&&&&GYJJJJJJJJJ  <br>
+55PPPGGBB#&@@@@@@@@@&&#&&@@&&&#5JJJJJJJJ  <br>
+PPGGBB###@@@@@#BPYY5Y?77YG#@@&&#JJJJJJJJ  <br>
+GGB###&&&@@@&BY7!^:::::::^!Y&@@&YJJJJJJJ  <br>
+B##&&&&&&@@@BP5J?~^:...:~~77?#@#YYYYYJJJ <br>
+B#&&&&&&&&&&5YJJ?77~:.^!?!!~~?GYYYYJJYJJ <br>
+B##&&&&&&BYBY!^^~::!~:::^::.:!:~YYYYYYYY <br>
+B##&&&&&&&GBJ~:...~!^.::....:~^?YYYYYYYY <br>
+BB##&&&&&&#GJ7~::~!~^::::::::~?YYYYYYYYY <br>
+GB##&&&&&&&&Y~~^:?J!:::~~^:::?YYYYYYYYYY <br>
+BB##&&&&&&&&&P?!^^~^::::..^!5YYYYYYYYYYY <br>
+GB##&&&&&&&@@#GG5J!~:::^!!~B&GYYYYYYYYYY <br>
+GB##&&&&&@@@&PJYPGP5JJJ7~^Y&&&#BGP5YYYYY <br>
+#&&&&@@@@@@@GJJ777?7!!~^!P&&&&&@&&&BP5YY <br>
+&@@@@@&&&@@@B7!77777!~~J&&&&&&&&&&@&&&## <br>
+&@&&@@@@@@@@@&?:^^^^^^Y&@@&&&&&&&@&&&&@& <br>
+&&@&&@@@&&@@@@&J...:7G&&@@@&&&&&@&&@&&&& <br>
+&&@&&&&&&&&@&@@@Y:!G&&&&&&&&@&&@&&&@@&&& <br>
+@@@@&&&&&&&&&&&@@B&@&&&&&&&&&&&&&&&@&&&&   <br>
