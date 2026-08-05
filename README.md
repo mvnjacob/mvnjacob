@@ -1,6 +1,6 @@
-<table>
+<table width="100%">
 <tr>
-<td valign="top">
+<td valign="top" width="50%">
 
 <pre style="background: transparent; border: none; padding: 0; margin: 0;">
                                                             
@@ -42,7 +42,7 @@
 </pre>
 
 </td>
-<td valign="top">
+<td valign="top" width="50%">
 
 ## Marc Jacob
 <br>
@@ -58,11 +58,9 @@ Project Management
 <br>
 <br>
 
-### Contact
+###Contact
 marcvincentjacob@gmail.com
 
 </td>
 </tr>
 </table>
-
-<br>
