@@ -20,5 +20,3 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>
 
-
-<img src="https://metrics.lecoq.io/mvnjacobE?template=classic&isocalendar=1&languages=1&activity=1&achievements=1&base=header%2Cactivity" />
