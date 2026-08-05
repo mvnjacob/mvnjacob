@@ -20,6 +20,5 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀<br>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br>
 
-<td width="60%">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mvnjacob&theme=github_dark" />
