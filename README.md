@@ -61,7 +61,7 @@
 <h3>About Me</h3>
 
 <p>
-I'm a Computer Science student with a passion for problem solving and team management. I like playing video games.
+I'm a Computer Science student with a passion for problem solving and team management. I like playing tetris.
 </p>
 
 <br>
